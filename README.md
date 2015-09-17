@@ -8,3 +8,6 @@ d'accepter la demande d'accès à la freebox en appuyant sur la flèche droite d
 
 et voila ...
 
+* NOTE *
+Il faut avoir python3 installé avec requests
+> pip3 install requests
